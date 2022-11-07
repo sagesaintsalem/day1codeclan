@@ -1,0 +1,26 @@
+cd - change directory
+mkdir - make directory
+ls - list all the things in the directory
+man ls - open manual
+touch - creates new file
+pwd - prints current working directory
+cd . - open file in the directory
+cd .. - goes up one level to directory above your current location (can also do just '..')
+cd ../../../ - move up multiple directories
+rm - remove
+rm -fr - force remove recursively
+-r - recursive
+-a - list all the things including hidden files
+-l - list all the things with all the details
+code . - open all files in current directory
+cp - copy file (NOT directory)
+cp -r copy folder
+mv - move (or rename)
+mv -r - move a folder
+history - shows list of previous commands 
+
+
+
+
+APPLE COMMANDS
+cmd + k - clear screen
